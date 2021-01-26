@@ -25,6 +25,6 @@ The following assumes the use of `node@>=10`.
 
 ## BSC Test
 ```
-UniswapV2Router02 0x5805b56a6B345ab1Cc27084af64064008DDb024D
+UniswapV2Router02 0xEC0E8A6e21538F2327A14DEaB248f47874cc87bF
 Multicall 0x3Ae4659b638a0AAd0f03C1785BE1A0A19681E6dC
 ```
